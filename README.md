@@ -2,7 +2,7 @@
 - 👀 I’m interested in ios development and web development.
 - 🌱 I’m currently learning xcode and swift.
 - 💞️ I’m looking to collaborate on ios projects.
-- 📫 How to reach me: instagram @blue_berry_skies
+- 📫 How to reach me: 
 
 <!---
 Komal914/Komal914 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

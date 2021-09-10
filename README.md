@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Komal914
 - 👀 I’m interested in ios development and web development.
-- 🌱 I’m currently learning xcode and swift.
-- 💞️ I’m looking to collaborate on ios projects.
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate on web development/ ios development projects.
 - 📫 How to reach me: kaur91499@gmail.com
 
 <!---

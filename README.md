@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Komal914
-- 🌱 I’m currently learning web development and c++.
-- 💞️ I’m looking to collaborate on web development/ ios development projects.
+- 🌱 I’m currently learning web development (Javascript/DOM/React) and C++ (Data structures/ Memory allocation).
+- 💞️ I’m looking to collaborate as a front-end developer on projects in web or iOS.
 - 📫 How to reach me: kaur91499@gmail.com
 
 <!---

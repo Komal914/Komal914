@@ -12,7 +12,7 @@
 </a>
  
 </p>
-     <p align="center">
+     <p align="left">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" /> 
   
 </p>

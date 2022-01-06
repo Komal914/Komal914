@@ -21,8 +21,10 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=komal914&theme=radical&show_icons=true" />
 </p>
 
+
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal914&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal914&theme=radical&layout=compact" />
    
 
 </p>

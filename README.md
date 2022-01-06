@@ -1,5 +1,4 @@
 
-<img src="https://media.giphy.com/media/3o7aDcEbGEsFAwSL0Q/giphy.gif"  width="100%" height="10px"/> 
   <h1 align= "center"> Hello
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
      </h1>
@@ -39,7 +38,6 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal914&theme=radical&layout=compact"  width="500px"  />
-   <img src="https://media.giphy.com/media/3o7aDcEbGEsFAwSL0Q/giphy.gif"  width="100%" height="10px"/> 
 
 
 

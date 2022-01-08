@@ -1,6 +1,7 @@
 
-  <h1 align= "center"> Hello
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+<h1 align= "center"> <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="30px">  Welcome
+  <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="30px">
      </h1>
      <p align="center"> <img align="center" src="https://media.giphy.com/media/3o7aCVzTmaVkDWpXYk/giphy.gif" width="40px"/> Let's Connect! 
 <a href="https://twitter.com/KomalKaur99">

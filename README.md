@@ -1,4 +1,10 @@
 
+![banner](https://user-images.githubusercontent.com/44416323/149034251-f768a32d-d8f0-4a34-92cd-7b7826fa4413.png)
+
+
+
+
+
 
 <h1 align= "center">
  
@@ -13,6 +19,8 @@
   
 
 </h1>
+
+
  
  <p align="center"> <img align="center" src="https://media.giphy.com/media/3o7aCVzTmaVkDWpXYk/giphy.gif" width="40px"/> Let's Connect! 
 <a href="https://twitter.com/KomalKaur99">
@@ -21,7 +29,7 @@
 <a href="https://www.linkedin.com/in/kkomal/">
   <img align="center" alt="Komal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-  
+
  
 </p>
      <p align="center">

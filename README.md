@@ -6,10 +6,9 @@
 
 
 
+![banner](https://user-images.githubusercontent.com/44416323/149036229-139d9498-7fc6-4662-89a1-c0915183a2d8.png)
 
 
-
-![banner](https://user-images.githubusercontent.com/44416323/149035937-15254f27-28f3-4031-9463-c8e6b2d993f0.png)
 
 <h1 align= "center">
  

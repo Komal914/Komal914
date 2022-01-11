@@ -16,9 +16,9 @@
   
   
   <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="30px" >
-  <img src="https://media.giphy.com/media/xT0Gqod3dkz1h6DKak/giphy.gif" width="30px">
+  <img src="https://media.giphy.com/media/areg3RSg6jCXThzdvD/giphy.gif" width="30px" >
   Welcome
-      <img src="https://media.giphy.com/media/xT0Gqod3dkz1h6DKak/giphy.gif" width="30px">
+     <img src="https://media.giphy.com/media/areg3RSg6jCXThzdvD/giphy.gif" width="30px" >
   <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="30px">
   
 
@@ -28,7 +28,7 @@
 
 
  
- <p align="center"> <img align="center" src="https://media.giphy.com/media/3o7aCVzTmaVkDWpXYk/giphy.gif" width="40px"/> Let's Connect! 
+ <p align="center"> <img align="center" src="https://media.giphy.com/media/3o7aCVzTmaVkDWpXYk/giphy.gif" width="40px"/> Let's Connect ! 
 <a href="https://twitter.com/KomalKaur99">
   <img align="center" alt="Komal Kaur | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>

@@ -22,9 +22,8 @@ WOMEN CODING GIF
 --->
 
 <p align="center">
- <img src="https://media.giphy.com/media/vsMyzaSjxrIhsoukbi/giphy.gif" width="60px"  > 
-  <img align="center" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  width="500px"  />
- <img src="https://media.giphy.com/media/vsMyzaSjxrIhsoukbi/giphy.gif" width="60px"  > 
+ <img src="https://media.giphy.com/media/Tl7sK6IaEQdVcCVD7i/giphy.gif" > 
+ 
  </p>
 
 <!---

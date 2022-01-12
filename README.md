@@ -31,9 +31,9 @@ LANG STATS
 --->
 
 <p align="center">
- <img src="https://media.giphy.com/media/hlxzzqEAuOULt9Omqc/giphy.gif" width="60px"  > 
+ <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100px"  > 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal914&theme=radical&layout=compact"  width="500px"  />
- <img src="https://media.giphy.com/media/hlxzzqEAuOULt9Omqc/giphy.gif" width="60px"  > 
+ <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100px"  > 
  </p>
  
  <!---

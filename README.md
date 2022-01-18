@@ -4,6 +4,7 @@ BANNER
 ![banner](https://user-images.githubusercontent.com/44416323/149036229-139d9498-7fc6-4662-89a1-c0915183a2d8.png)
 
 
+
 <!---
 WELCOME
 --->
@@ -67,6 +68,18 @@ LETS CONNECT
 
  
 </h1>
+
+ <!---
+CURRENT MOOD CODE BELOW-> not active
+
+<h1 align="center"> Current Mood: 
+  
+ <img align="center" src="https://media.giphy.com/media/r0PYzzxw81gfKcu13G/giphy.gif" width="200px"> 
+ 
+ </h1>
+
+--->
+
 
 
 

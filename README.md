@@ -26,15 +26,16 @@ WOMEN CODING GIF
  <img src="https://media.giphy.com/media/Tl7sK6IaEQdVcCVD7i/giphy.gif" > 
  
  </p>
-
-<!---
-LANG STATS
+ <!---
+GITHUB Streaks
 --->
+ 
+ 
+ <p align="center">
+  <img src="https://media.giphy.com/media/1wPC7g6WN1HtqAiBq1/giphy.gif" width="60px"  > 
 
-<p align="center">
- <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100px"  > 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal914&theme=radical&layout=compact"  width="500px"  />
- <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100px"  > 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Komal914&theme=radical&show)"  />
+  <img src="https://media.giphy.com/media/1wPC7g6WN1HtqAiBq1/giphy.gif" width="60px"  > 
  </p>
  
  <!---
@@ -47,16 +48,16 @@ GITHUB STATS
  </p>
  
  
+ 
+ 
  <!---
-GITHUB Streaks
+LANG STATS
 --->
- 
- 
- <p align="center">
-  <img src="https://media.giphy.com/media/1wPC7g6WN1HtqAiBq1/giphy.gif" width="60px"  > 
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Komal914&theme=radical&show)"  />
-  <img src="https://media.giphy.com/media/1wPC7g6WN1HtqAiBq1/giphy.gif" width="60px"  > 
+<p align="center">
+ <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100px"  > 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal914&theme=radical&layout=compact"  width="500px"  />
+ <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100px"  > 
  </p>
 
  

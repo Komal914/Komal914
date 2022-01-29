@@ -31,12 +31,12 @@ GITHUB Streaks
 --->
  
  
-<!--  <p align="center">
+  <p align="center">
   <img src="https://media.giphy.com/media/1wPC7g6WN1HtqAiBq1/giphy.gif" width="60px"  > 
 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Komal914&theme=radical&show)"  />
   <img src="https://media.giphy.com/media/1wPC7g6WN1HtqAiBq1/giphy.gif" width="60px"  > 
- </p> -->
+ </p> 
  
  <!---
 GITHUB STATS

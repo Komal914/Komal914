@@ -25,7 +25,28 @@ Aside from coding, I enjoy running🏃🏻‍♀️, and caring for my indoor pl
 
 
 
+<!---
+LETS CONNECT
+--->
 
+
+ <h1 align="center"> 
+  <img align="center" src="https://media.giphy.com/media/xEEzGpNOstpHkS9UaZ/giphy.gif" width="40px"> 
+  Let's Connect ! 
+  <img align="center" src="https://media.giphy.com/media/xEEzGpNOstpHkS9UaZ/giphy.gif" width="40px"> 
+  <img align="center" src="https://media.giphy.com/media/mN0ooWAdWOV7Xhq2TY/giphy.gif" width="40px"> 
+  
+  
+  
+<a href="https://twitter.com/KomalKaur99">
+  <img align="center" alt="Komal Kaur | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/kkomal/">
+  <img align="center" alt="Komal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+ 
+</h1>
 
 
 
@@ -72,28 +93,7 @@ LANG STATS
  </p>
 
  
- <!---
-LETS CONNECT
---->
-
-
- <h1 align="center"> 
-  <img align="center" src="https://media.giphy.com/media/xEEzGpNOstpHkS9UaZ/giphy.gif" width="40px"> 
-  Let's Connect ! 
-  <img align="center" src="https://media.giphy.com/media/xEEzGpNOstpHkS9UaZ/giphy.gif" width="40px"> 
-  <img align="center" src="https://media.giphy.com/media/mN0ooWAdWOV7Xhq2TY/giphy.gif" width="40px"> 
-  
-  
-  
-<a href="https://twitter.com/KomalKaur99">
-  <img align="center" alt="Komal Kaur | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/kkomal/">
-  <img align="center" alt="Komal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
  
-</h1>
 
  <!---
 CURRENT MOOD CODE BELOW-> not active

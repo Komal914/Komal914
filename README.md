@@ -1,4 +1,14 @@
 <!---
+WELCOME
+--->
+<h1 align= "center">
+  <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="30px" >
+  <img src="https://media.giphy.com/media/areg3RSg6jCXThzdvD/giphy.gif" width="30px" >
+  Welcome
+     <img src="https://media.giphy.com/media/areg3RSg6jCXThzdvD/giphy.gif" width="30px" >
+  <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="30px">
+</h1>
+<!---
 BANNER
 --->
 ![banner](https://user-images.githubusercontent.com/44416323/149036229-139d9498-7fc6-4662-89a1-c0915183a2d8.png)
@@ -14,16 +24,7 @@ Aside from coding, I enjoy running🏃🏻‍♀️, and caring for my indoor pl
 
 
 
-<!---
-WELCOME
---->
-<h1 align= "center">
-  <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="30px" >
-  <img src="https://media.giphy.com/media/areg3RSg6jCXThzdvD/giphy.gif" width="30px" >
-  Welcome
-     <img src="https://media.giphy.com/media/areg3RSg6jCXThzdvD/giphy.gif" width="30px" >
-  <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="30px">
-</h1>
+
 
 
 

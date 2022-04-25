@@ -19,7 +19,7 @@ I am a Software Engineer and currently an undergrad student at Hunter College pu
 
 I have experience in front-end Web development 🔑 (React/ JS/ CSS/ HTML), C++ 👩🏻‍💻 and iOS app Development 📲 (Swift/ UIKit, Storyboard). 
 
-I'm interested in gaining more experience in front-end development and learning about Artificial Intelligence 🧐. I am open to internship opportunities for Summer 2022. 
+I'm interested in gaining more experience in iOS mobile development 📲. I am open to internship opportunities for Summer 2022. 
 
 Aside from coding, I enjoy running🏃🏻‍♀️, and caring for my indoor plants🌱.
 

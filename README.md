@@ -44,6 +44,11 @@ LETS CONNECT
 <a href="https://www.linkedin.com/in/kkomal/">
   <img align="center" alt="Komal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+ 
+<!---
+PROFILE COUNTER
+--->
+![](https://komarev.com/ghpvc/?username=Komal914)
 
  
 </h1>
@@ -58,6 +63,8 @@ WOMEN CODING GIF
  <img src="https://media.giphy.com/media/Tl7sK6IaEQdVcCVD7i/giphy.gif" > 
  
  </p>
+ 
+ 
  <!---
 GITHUB Streaks
 --->

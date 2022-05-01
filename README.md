@@ -48,7 +48,7 @@ LETS CONNECT
 <!---
 PROFILE COUNTER
 --->
-![](https://komarev.com/ghpvc/?username=Komal914)
+![](https://komarev.com/ghpvc/?username=Komal914&color=ff69b4)
 
  
 </h1>

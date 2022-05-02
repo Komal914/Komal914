@@ -48,7 +48,8 @@ LETS CONNECT
 <!---
 PROFILE COUNTER
 --->
-![](https://komarev.com/ghpvc/?username=Komal914&color=ff69b4)
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKomal914%2Fhit-counter&count_bg=%23EC83FF&title_bg=%2368E63E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
  
 </h1>

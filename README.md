@@ -1,13 +1,4 @@
-<!---
-WELCOME
---->
-<h1 align= "center">
-  <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="30px" >
-  <img src="https://media.giphy.com/media/areg3RSg6jCXThzdvD/giphy.gif" width="30px" >
-  Welcome
-     <img src="https://media.giphy.com/media/areg3RSg6jCXThzdvD/giphy.gif" width="30px" >
-  <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="30px">
-</h1>
+
 
 <!---
 BANNER
@@ -55,9 +46,15 @@ PROFILE COUNTER
  <!---
 GITHUB Streaks
 --->
- <div>
+ <div >
  
-  <h1>Streaks and Stats</h1>
+  <h1 >
+    <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="30px" >
+  <img src="https://media.giphy.com/media/areg3RSg6jCXThzdvD/giphy.gif" width="30px" >
+    Streaks and Stats
+    <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="30px" >
+  <img src="https://media.giphy.com/media/areg3RSg6jCXThzdvD/giphy.gif" width="30px" >
+  </h1>
   
 <!--   <img src="https://media.giphy.com/media/1wPC7g6WN1HtqAiBq1/giphy.gif" width="60px"  > 
  -->
@@ -91,8 +88,12 @@ LANG STATS
  </p> -->
 
  
- <h1 aligh= "center">
-  What I do:  
+ <h1>
+  <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="30px" >
+  <img src="https://media.giphy.com/media/areg3RSg6jCXThzdvD/giphy.gif" width="30px" >
+  What I do
+  <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="30px" >
+  <img src="https://media.giphy.com/media/areg3RSg6jCXThzdvD/giphy.gif" width="30px" >
  </h1>
  <h1 align= "center">
   <img src="https://im4.ezgif.com/tmp/ezgif-4-811876392a.gif" >

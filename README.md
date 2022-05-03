@@ -14,6 +14,13 @@ BANNER
 --->
 ![banner](https://user-images.githubusercontent.com/44416323/149036229-139d9498-7fc6-4662-89a1-c0915183a2d8.png)
 
+I am an iOS Software Engineer and currently an undergrad student at Hunter College pursuing two bachelors degrees, Computer Science and Psychology. 
+
+I'm interested in gaining more experience in front-end development and learning about Artificial Intelligence 🧐. I am open to internship opportunities for Summer 2022. 
+
+Aside from coding, I enjoy running, and caring for my indoor plants 🌱.
+
+
 
 <!---
 LETS CONNECT
@@ -43,41 +50,31 @@ PROFILE COUNTER
 
  
 </h1>
-
-
-
-<!---
-WOMEN CODING GIF
---->
-<!-- 
-<p align="center">
- <img src="https://media.giphy.com/media/Tl7sK6IaEQdVcCVD7i/giphy.gif" > 
- 
- </p> -->
  
  
  <!---
 GITHUB Streaks
 --->
+ <div>
  
- 
-  <p align="center">
-  <img src="https://media.giphy.com/media/1wPC7g6WN1HtqAiBq1/giphy.gif" width="60px"  > 
-
+  <h1>Streaks and Stats</h1>
+  
+<!--   <img src="https://media.giphy.com/media/1wPC7g6WN1HtqAiBq1/giphy.gif" width="60px"  > 
+ -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Komal914&theme=radical&show)"  />
-  <img src="https://media.giphy.com/media/1wPC7g6WN1HtqAiBq1/giphy.gif" width="60px"  > 
- </p> 
+<!--   <img src="https://media.giphy.com/media/1wPC7g6WN1HtqAiBq1/giphy.gif" width="60px"  >  -->
+  
  
  <!---
 GITHUB STATS
 --->
-<p align="center">
- <img src="https://media.giphy.com/media/MCJtWQoLo38F3LMNmu/giphy.gif" width="60px"  > 
+
+<!--  <img src="https://media.giphy.com/media/MCJtWQoLo38F3LMNmu/giphy.gif" width="60px"  >  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=komal914&theme=radical&show_icons=true"  width="500px"  />
- <img src="https://media.giphy.com/media/MCJtWQoLo38F3LMNmu/giphy.gif" width="60px"  > 
- </p>
+<!--  <img src="https://media.giphy.com/media/MCJtWQoLo38F3LMNmu/giphy.gif" width="60px"  >  -->
+
  
- 
+  </div>
  
  
  
@@ -94,9 +91,10 @@ LANG STATS
  </p> -->
 
  
- 
+ <h1 aligh= "center">
+  What I do:  
+ </h1>
  <h1 align= "center">
-  <h1>What I do: </h1>
   <img src="https://im4.ezgif.com/tmp/ezgif-4-811876392a.gif" >
 </h1>
  

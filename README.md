@@ -46,7 +46,7 @@ PROFILE COUNTER
  <!---
 GITHUB Streaks
 --->
- <div >
+ <h1 align="center">
  
   <h1 >
     <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="30px" >
@@ -71,7 +71,7 @@ GITHUB STATS
 <!--  <img src="https://media.giphy.com/media/MCJtWQoLo38F3LMNmu/giphy.gif" width="60px"  >  -->
 
  
-  </div>
+  </h1>
  
  
  

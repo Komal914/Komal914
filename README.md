@@ -41,12 +41,7 @@ PROFILE COUNTER
 
  
 </h1>
- 
- 
- <!---
-GITHUB Streaks
---->
- <h1 align="center">
+
  
   <h1 >
     <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="30px" >
@@ -56,10 +51,13 @@ GITHUB Streaks
   <img src="https://media.giphy.com/media/areg3RSg6jCXThzdvD/giphy.gif" width="30px" >
   </h1>
   
-<!--   <img src="https://media.giphy.com/media/1wPC7g6WN1HtqAiBq1/giphy.gif" width="60px"  > 
- -->
+   <!---
+GITHUB Streaks
+--->
+  
+  <h1 align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Komal914&theme=radical&show)"  />
-<!--   <img src="https://media.giphy.com/media/1wPC7g6WN1HtqAiBq1/giphy.gif" width="60px"  >  -->
+
   
  
  <!---
@@ -69,9 +67,9 @@ GITHUB STATS
 <!--  <img src="https://media.giphy.com/media/MCJtWQoLo38F3LMNmu/giphy.gif" width="60px"  >  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=komal914&theme=radical&show_icons=true"  width="500px"  />
 <!--  <img src="https://media.giphy.com/media/MCJtWQoLo38F3LMNmu/giphy.gif" width="60px"  >  -->
-
- 
   </h1>
+ 
+
  
  
  

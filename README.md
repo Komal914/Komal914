@@ -59,11 +59,11 @@ PROFILE COUNTER
 <!---
 WOMEN CODING GIF
 --->
-
+<!-- 
 <p align="center">
  <img src="https://media.giphy.com/media/Tl7sK6IaEQdVcCVD7i/giphy.gif" > 
  
- </p>
+ </p> -->
  
  
  <!---
@@ -90,17 +90,25 @@ GITHUB STATS
  
  
  
+ 
+ 
+ 
  <!---
 LANG STATS
 --->
 
-<p align="center">
+<!-- <p align="center">
  <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100px"  > 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal914&theme=radical&layout=compact"  width="500px"  />
  <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100px"  > 
- </p>
+ </p> -->
 
  
+ 
+ <h1 align= "center">
+  <h1>What I do: </h1>
+  <img src="https://im4.ezgif.com/tmp/ezgif-4-811876392a.gif" >
+</h1>
  
 
  <!---

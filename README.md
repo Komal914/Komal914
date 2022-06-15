@@ -11,11 +11,15 @@ I'm interested in gaining more experience in front-end development and maybe lea
 
 Aside from coding, I enjoy running 🏃🏻‍♀️, and caring for my indoor plants 🌱.
 
-
-
 <!---
-LETS CONNECT
+PROFILE COUNTER
 --->
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKomal914%2Fhit-counter&count_bg=%23EC83FF&title_bg=%2368E63E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
+
 
 
 <!--  <h1 align="center"> 
@@ -25,31 +29,19 @@ LETS CONNECT
   <img align="center" src="https://media.giphy.com/media/mN0ooWAdWOV7Xhq2TY/giphy.gif" width="20px">  -->
   
   
-  
+<h1 align="center">
+  <p>Connect with me!<p>
 <a href="https://twitter.com/KomalKaur99">
-  <img align="center" alt="Komal Kaur | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="center" alt="Komal Kaur | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/kkomal/">
-  <img align="center" alt="Komal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="Komal's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
- 
-<!---
-PROFILE COUNTER
---->
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKomal914%2Fhit-counter&count_bg=%23EC83FF&title_bg=%2368E63E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<h1>
  
-</h1>
 
-<!--  
-  <h1 >
-    <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="30px" >
-  <img src="https://media.giphy.com/media/areg3RSg6jCXThzdvD/giphy.gif" width="30px" >
-    Streaks and Stats
-    <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="30px" >
-  <img src="https://media.giphy.com/media/areg3RSg6jCXThzdvD/giphy.gif" width="30px" >
-  </h1> -->
+
   
    <!---
 GITHUB Streaks
@@ -86,13 +78,13 @@ LANG STATS
  </p> -->
 
  
- <h1>
+<!--  <h1>
   <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="30px" >
   <img src="https://media.giphy.com/media/areg3RSg6jCXThzdvD/giphy.gif" width="30px" >
   What I do
   <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="30px" >
   <img src="https://media.giphy.com/media/areg3RSg6jCXThzdvD/giphy.gif" width="30px" >
- </h1>
+ </h1> -->
 
 ![ee9111781aea76738dad9b309a0d6853dab0c0e2](https://user-images.githubusercontent.com/44416323/166572160-5f4d65ce-24d8-41ca-b337-8f1201b59d5c.gif)
 

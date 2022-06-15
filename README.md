@@ -18,11 +18,11 @@ LETS CONNECT
 --->
 
 
- <h1 align="center"> 
+<!--  <h1 align="center"> 
   <img align="center" src="https://media.giphy.com/media/xEEzGpNOstpHkS9UaZ/giphy.gif" width="20px"> 
   Let's Connect ! 
   <img align="center" src="https://media.giphy.com/media/xEEzGpNOstpHkS9UaZ/giphy.gif" width="20px"> 
-  <img align="center" src="https://media.giphy.com/media/mN0ooWAdWOV7Xhq2TY/giphy.gif" width="20px"> 
+  <img align="center" src="https://media.giphy.com/media/mN0ooWAdWOV7Xhq2TY/giphy.gif" width="20px">  -->
   
   
   
@@ -42,14 +42,14 @@ PROFILE COUNTER
  
 </h1>
 
- 
+<!--  
   <h1 >
     <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="30px" >
   <img src="https://media.giphy.com/media/areg3RSg6jCXThzdvD/giphy.gif" width="30px" >
     Streaks and Stats
     <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="30px" >
   <img src="https://media.giphy.com/media/areg3RSg6jCXThzdvD/giphy.gif" width="30px" >
-  </h1>
+  </h1> -->
   
    <!---
 GITHUB Streaks

@@ -19,10 +19,10 @@ LETS CONNECT
 
 
  <h1 align="center"> 
-  <img align="center" src="https://media.giphy.com/media/xEEzGpNOstpHkS9UaZ/giphy.gif" width="40px"> 
+  <img align="center" src="https://media.giphy.com/media/xEEzGpNOstpHkS9UaZ/giphy.gif" width="20px"> 
   Let's Connect ! 
-  <img align="center" src="https://media.giphy.com/media/xEEzGpNOstpHkS9UaZ/giphy.gif" width="40px"> 
-  <img align="center" src="https://media.giphy.com/media/mN0ooWAdWOV7Xhq2TY/giphy.gif" width="40px"> 
+  <img align="center" src="https://media.giphy.com/media/xEEzGpNOstpHkS9UaZ/giphy.gif" width="20px"> 
+  <img align="center" src="https://media.giphy.com/media/mN0ooWAdWOV7Xhq2TY/giphy.gif" width="20px"> 
   
   
   

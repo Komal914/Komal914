@@ -5,9 +5,9 @@ BANNER
 --->
 ![banner](https://user-images.githubusercontent.com/44416323/149036229-139d9498-7fc6-4662-89a1-c0915183a2d8.png)
 
-I am an iOS Software Engineer and currently an undergrad student 👩🏻‍🏫 at Hunter College pursuing two bachelors degrees, Computer Science💻 and Psychology🧠. 
+I am a Front-end Engineer and currently an undergrad student 👩🏻‍🏫 at Hunter College pursuing two bachelors degrees, Computer Science💻 and Psychology🧠. 
 
-I'm interested in gaining more experience in front-end development and maybe learning about Artificial Intelligence 🧐. I am open to internship opportunities for Summer 2022. 
+I'm interested in gaining more experience in web development and maybe learning about Artificial Intelligence 🧐. I am open to work opportunities. 
 
 Aside from coding, I enjoy running 🏃🏻‍♀️, and caring for my indoor plants 🌱.
 

@@ -5,10 +5,6 @@ BANNER
 --->
 ![banner](https://user-images.githubusercontent.com/44416323/149036229-139d9498-7fc6-4662-89a1-c0915183a2d8.png)
 
-I am a Fullstack Engineer interested in gaining more experience in web development. I am open to work opportunities. 
-
-Aside from coding, I enjoy running 🏃🏻‍♀️, and caring for my indoor plants 🌱. 
-
 <!---
 PROFILE COUNTER
 --->

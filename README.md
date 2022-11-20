@@ -21,7 +21,7 @@
 
 
    
-   <img aligh="center"  src="https://media.giphy.com/media/u7x4Qc39eZ4bbus3TR/giphy.gif"  width="300px"  />
+   <img aligh="center"  src="https://media.giphy.com/media/u7x4Qc39eZ4bbus3TR/giphy.gif"  width="200px"  />
 
 
   

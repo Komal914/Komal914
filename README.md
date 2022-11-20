@@ -1,53 +1,44 @@
 
 
+
+
+<h1 align="center">Hey there🤭 </h1>
+
+
+
+   
+  
+ 
+ 
  
 
-
-  
    <!---
 GITHUB Streaks
 --->
+
+
   
   <h1 align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Komal914&theme=ayu-light&show)"  />
-
-  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Komal914&theme=ayu-light&show)"  width="500px"  />
  
- <!---
+ 
+<!---
 GITHUB STATS
 --->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=komal914&show_icons=true&hide_title=true&text_color=ffbfd8"  width="550px" />
+ 
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=komal914&show_icons=true&hide_title=true&text_color=ffbfd8"  width="500px"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal914&theme=ayu-light&show&layout=compact"  width="600px"  />
 
   </h1>
- 
-
- 
- 
- 
- 
- 
- <!---
+  
+  <!---
 LANG STATS
 --->
 
-<!-- <p align="center">
- <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100px"  > 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal914&theme=radical&layout=compact"  width="500px"  />
- <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100px"  > 
- </p> -->
 
  
-
- 
-
- 
-
-
-
-
-
 
 <!--  <h1 align="center"> 
   <img align="center" src="https://media.giphy.com/media/xEEzGpNOstpHkS9UaZ/giphy.gif" width="20px"> 

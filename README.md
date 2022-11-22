@@ -16,7 +16,7 @@
 
   
    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Komal914&theme=github-light&show)"  width="500px"  />
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=komal91&theme=vue&show4&show_icons=true&hide_title=true&text_color=ffbfd8"  width="530px" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=komal914&theme=vue&show4&show_icons=true&hide_title=true&text_color=ffbfd8"  width="530px" />
 </div>
 
 

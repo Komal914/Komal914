@@ -24,8 +24,7 @@
    <img aligh="center"  src="https://media.giphy.com/media/u7x4Qc39eZ4bbus3TR/giphy.gif"  width="200px"  />
 
 
-  ![Snake animation](https://github.com/komal914/github-readme/blob/output/github-contribution-snake.svg)
- 
+![Snake animation](https://github.com/komal914/github-readme/blob/output/github-contribution-snake.svg) 
 
   
   

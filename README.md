@@ -23,8 +23,8 @@
    
    <img aligh="center"  src="https://media.giphy.com/media/u7x4Qc39eZ4bbus3TR/giphy.gif"  width="200px"  />
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/komal914/komal914/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-![Snake animation](https://github.com/komal914/github-readme/blob/output/github-contribution-snake.svg) 
 
   
   

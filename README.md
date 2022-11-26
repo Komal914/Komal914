@@ -26,6 +26,7 @@
 <!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/komal914/komal914/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) -->
   
 ![](https://raw.githubusercontent.com/komal914/komal914/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/komal914/komal914/output/github-contribution-grid-snake.svg)
 
 
   

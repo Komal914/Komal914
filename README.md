@@ -22,7 +22,7 @@
 
    
    <img aligh="center"  src="https://media.giphy.com/media/R7AW255ijTdV6/giphy.gif"  width="250px"  />
-   <img aligh="center"  src="https://media.giphy.com/media/R7AW255ijTdV6/giphy.gif"  width="250px"  />
+
 
 <!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/komal914/komal914/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) -->
   

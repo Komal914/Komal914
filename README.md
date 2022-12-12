@@ -14,7 +14,7 @@
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=komal914&theme=vue&show4&show_icons=true&hide_title=true&text_color=ffbfd8"  width="530px" />
 </div>
 
-   <img aligh="center"  src="https://media.giphy.com/media/R7AW255ijTdV6/giphy.gif"  width="250px"  />
+   <img aligh="center"  src="https://media.giphy.com/media/l0Nwv55UMfEVf1y92/giphy.gif"  width="250px"  />
 
 
 <!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/komal914/komal914/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) -->

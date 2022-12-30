@@ -6,6 +6,7 @@
    <a href="https://twitter.com/KomalKaur99">
 <a href="https://www.linkedin.com/in/kkomal/">
   <img align="center" alt="Komal's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  
    
 </h1>
                                              
@@ -14,8 +15,9 @@
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=komal914&theme=vue&show4&show_icons=true&hide_title=true&text_color=ffbfd8"  width="530px" />
 </div>
 
-<!--    <img aligh="center"  src="https://media.giphy.com/media/3o6fJcIM6mG3Ad6lAk/giphy.gif"  width="250px"  /> -->
-  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+   <img aligh="center"  src="https://media.giphy.com/media/3o6fJcIM6mG3Ad6lAk/giphy.gif"  width="250px"  />
+   <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+ 
 
 
 <!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/komal914/komal914/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) -->

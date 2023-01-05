@@ -19,22 +19,12 @@
    <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
  
 
-
-<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/komal914/komal914/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) -->
-  
 ![](https://raw.githubusercontent.com/komal914/komal914/output/github-contribution-grid-snake.svg)
 
 
 
   
   
-
-
-
-
-
-
-
 <!---
 Komal914/Komal914 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

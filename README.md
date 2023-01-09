@@ -15,7 +15,7 @@
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=komal914&theme=vue&show4&show_icons=true&hide_title=true&text_color=ffbfd8"  width="500px" />
 </div>
 
-   <img aligh="center"  src="https://media.giphy.com/media/Y1NKE5pdq79q4kATfM/giphy.gif"  width="250px"  height="250px" />
+   <img aligh="center"  src="https://media.giphy.com/media/xThtavjNHr8FO66VAQ/giphy.gif"  width="auto"  height="250px" />
    <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
  
 

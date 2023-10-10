@@ -17,6 +17,7 @@
 ![](https://raw.githubusercontent.com/komal914/komal914/output/github-contribution-grid-snake.svg)
 
   <div align="center">
+    <a href="https://www.holopin.io/@komal914#badges"><img  src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16MW5neWQwMjM3bTN6am50c2V6Yng2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0="  width="200px"  /></a>
     <a href="https://www.holopin.io/@komal914#badges"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0="  width="200px"  /></a>
   <a href="https://www.holopin.io/@komal914#badges"><img  src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19"  width="200px"  /></a>
   </div>

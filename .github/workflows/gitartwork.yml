@@ -14,5 +14,5 @@ jobs:
       - uses: jasineri/gitartwork@v1
         with:
            user_name: komal914
-           text: I AM KOMAL
+           text: I'M KOMAL
       - uses: jasineri/simple-push-action@v1

@@ -4,6 +4,20 @@
 
 ![gitartwork](gitartwork.svg)                                             
 
+```yaml
+name: Komal
+pronouns: she/her
+location: Langley, Canada
+education: Bachelor of Arts, Double major in Computer Science and Psychology 
+fields_of_interests:
+  [
+    "Web Development",
+    "UX/UI Design",
+    "System Design"
+  ]
+hobbies: ["Biking", "Drawing", "Anime"]
+```
+
 <div>                                      
 
    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Komal914&theme=github-light&show)"  width="500px"  />

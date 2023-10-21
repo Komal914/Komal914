@@ -5,30 +5,30 @@
 ![gitartwork](gitartwork.svg)                                             
 
 ```yaml
-name: Komal
-pronouns: she/her
-location: Langley, Canada
-education: Bachelor of Arts, Double major in Computer Science and Psychology 
-fields_of_interests:
-  [
-    "Web Development",
-    "UX/UI Design",
-    "System Design"
-  ]
-hobbies: ["Biking", "Drawing", "Anime"]
+const CODER = {
+   name: "Komal",
+   pronouns: "she/her",
+   location: "Langley, Canada",
+   education: "Bachelor of Arts, Double major in Computer Science and Psychology",
+   university: "Hunter College City University of New York",
+   fields_of_interests:
+     [
+       "Web Development",
+       "UX/UI Design",
+       "System Design"
+     ],
+   hobbies: ["Biking", "Drawing", "Anime"]
+}
 ```
-
+![](https://raw.githubusercontent.com/komal914/komal914/output/github-contribution-grid-snake.svg)
+<!--- <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Komal914&theme=github-light&show)"  width="500px"  /> --->
+<!--- <img aligh="center"  src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif"  width="300px"  height="200px" /> --->
 <div>                                      
 
-   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Komal914&theme=github-light&show)"  width="500px"  />
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=komal914&theme=vue&show4&show_icons=true&hide_title=true&text_color=ffbfd8"  width="500px" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=komal914&theme=vue&show4&show_icons=true&hide_title=true&text_color=ffbfd8"  width="50%" />
 </div>
-
-   <img aligh="center"  src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif"  width="300px"  height="200px" />
-   <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+   <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes" width="45%"></a>
  
-
-![](https://raw.githubusercontent.com/komal914/komal914/output/github-contribution-grid-snake.svg)
   </div>
 
 [![An image of @komal914's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/komal914)](https://holopin.io/@komal914)

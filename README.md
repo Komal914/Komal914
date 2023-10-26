@@ -24,12 +24,10 @@ const CODER = {
 <!--- <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Komal914&theme=github-light&show)"  width="500px"  /> --->
 <!--- <img aligh="center"  src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif"  width="300px"  height="200px" /> --->
 <div>                                      
-
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=komal914&theme=vue&show4&show_icons=true&hide_title=true&text_color=ffbfd8"  width="50%" />
+<a href="https://readme-jokes.vercel.app"><img align="left" src="https://readme-jokes.vercel.app/api?hideBorder&theme=watermelon" />
+   
+   <img align="right" src="https://github-readme-stats.vercel.app/api?username=komal914&theme=gotham&hide_border=true&show4&show_icons=true&hide_title=true&icon_color=2CDD93&text_color=CAF6E3"  width="46%" />
 </div>
-   <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes" width="45%"></a>
- 
-  </div>
 
 [![An image of @komal914's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/komal914)](https://holopin.io/@komal914)
 

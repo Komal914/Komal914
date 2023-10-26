@@ -29,7 +29,6 @@ const CODER = {
    <img align="right" src="https://github-readme-stats.vercel.app/api?username=komal914&theme=gotham&hide_border=true&show4&show_icons=true&hide_title=true&icon_color=2CDD93&text_color=CAF6E3"  width="46%" />
 </div>
 
-[![An image of @komal914's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/komal914)](https://holopin.io/@komal914)
 
   
 

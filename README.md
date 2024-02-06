@@ -15,7 +15,7 @@ const CODER = {
      [
        "Web Development",
        "UX/UI Design",
-       "System Design"
+       "Product Management"
      ],
    hobbies: ["Biking", "Drawing", "Anime"]
 }

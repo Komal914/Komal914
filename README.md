@@ -17,7 +17,7 @@ const CODER = {
        "UX/UI Design",
        "Product Management"
      ],
-   hobbies: ["Biking", "Drawing", "Anime"]
+   hobbies: ["Biking", "Reading", "Cooking"]
 }
 ```
 ![](https://raw.githubusercontent.com/komal914/komal914/output/github-contribution-grid-snake.svg)

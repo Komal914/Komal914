@@ -13,8 +13,8 @@ const CODER = {
    university: "Hunter College City University of New York",
    fields_of_interests:
      [
+       "Cyber Security",
        "Web Development",
-       "UX/UI Design",
        "Product Management"
      ],
    hobbies: ["Biking", "Reading", "Cooking"]

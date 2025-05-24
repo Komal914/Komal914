@@ -4,7 +4,7 @@
 ![gitartwork](gitartwork.svg)                                             
 
 ```yaml
-const CODER = {
+const KOMAL = {
    name: "Komal",
    pronouns: "she/her",
    location: "Langley, Canada",
@@ -13,10 +13,10 @@ const CODER = {
    fields_of_interests:
      [
        "Cyber Security",
-       "Web Development",
-       "Product Management"
+       "Software Development",
+       "Project Management"
      ],
-   hobbies: ["Biking", "Reading", "Cooking"]
+   hobbies: ["Gardening", "Coding"]
 }
 ```
 ![](https://raw.githubusercontent.com/komal914/komal914/output/github-contribution-grid-snake.svg)

@@ -1,4 +1,4 @@
-<h1 align="center"> Hey! :) </h1>
+<h1 align="center">👋🏼 Hi! </h1>
    
 
 ![gitartwork](gitartwork.svg)                                             
@@ -16,7 +16,7 @@ const KOMAL = {
        "Software Development",
        "Project Management"
      ],
-   hobbies: ["Gardening", "Coding"]
+   hobbies: ["Gardening", "Weight lifting"]
 }
 ```
 ![](https://raw.githubusercontent.com/komal914/komal914/output/github-contribution-grid-snake.svg)

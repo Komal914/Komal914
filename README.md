@@ -14,6 +14,7 @@ const KOMAL = {
      [
        "Cyber Security",
        "Product Development",
+       "Data Analytics",
        "AI"
      ],
    hobbies: ["Gardening", "Weight lifting"]

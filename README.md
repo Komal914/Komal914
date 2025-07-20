@@ -8,13 +8,13 @@ const KOMAL = {
    name: "Komal",
    pronouns: "she/her",
    location: "Langley, Canada",
-   education: "Bachelor of Arts, Double major in Computer Science and Psychology",
+   education: "Bachelors, Double major in Computer Science & Psychology",
    university: "Hunter College City University of New York",
    fields_of_interests:
      [
        "Cyber Security",
-       "Software Development",
-       "Project Management"
+       "Product Development",
+       "AI"
      ],
    hobbies: ["Gardening", "Weight lifting"]
 }

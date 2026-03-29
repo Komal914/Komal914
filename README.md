@@ -13,9 +13,9 @@ const KOMAL = {
    fields_of_interests:
      [
        "Cyber Security",
-       "Product Development",
+       "Cloud/AI",
        "Data Analytics",
-       "AI"
+       "Operations"
      ],
    hobbies: ["Gardening", "Weight lifting"]
 }

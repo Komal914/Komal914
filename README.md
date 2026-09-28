@@ -17,7 +17,7 @@ const KOMAL = {
        "Data Analytics",
        "Operations"
      ],
-   hobbies: ["Gardening", "Nail Art"]
+   hobbies: ["Gardening", "Gelx Nails", "candle making", "crochet" ]
 }
 ```
 ![](https://raw.githubusercontent.com/komal914/komal914/output/github-contribution-grid-snake.svg)
